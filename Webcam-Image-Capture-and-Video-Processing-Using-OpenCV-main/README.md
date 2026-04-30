@@ -110,18 +110,29 @@ Captured image is saved as `captured_image.jpg`
 ### ii) Display the video
 Live webcam video is displayed
 
+<img width="663" height="508" alt="image" src="https://github.com/user-attachments/assets/7c609130-5588-43c4-bec0-4904cc1e28eb" />
+
 
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
 
+<img width="401" height="483" alt="image" src="https://github.com/user-attachments/assets/4d6a19e1-a4ac-4eb0-914c-eed4695012f2" />
+
+
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
+<img width="367" height="499" alt="image" src="https://github.com/user-attachments/assets/04f24407-10a2-45a8-bbf6-84a8e957a2f8" />
+
+
 
 
 
 
 ## Result
+
+
+Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
 
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
